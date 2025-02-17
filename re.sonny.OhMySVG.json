@@ -1,7 +1,7 @@
 {
   "id": "re.sonny.OhMySVG",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "45",
+  "runtime-version": "47",
   "sdk": "org.gnome.Sdk",
   "command": "re.sonny.OhMySVG",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/sonnyp/OhMySVG.git",
-          "tag": "v1.3",
-          "commit": "3ca42d3cdd74c6e9ce7be24ff215c08cb4edd22c"
+          "tag": "v1.4",
+          "commit": "44bcf170c2d1e95ab9c872ac5015041504b1fdcf"
         }
       ]
     }
